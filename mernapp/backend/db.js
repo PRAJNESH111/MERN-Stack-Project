@@ -1,6 +1,6 @@
 // const mongoose = require('mongoose');
 
-// const mongoURI = 'mongodb://gofood:Prajnesh%402001@cluster0-shard-00-00.reyts.mongodb.net:27017,cluster0-shard-00-01.reyts.mongodb.net:27017,cluster0-shard-00-02.reyts.mongodb.net:27017/gofoodmern?ssl=true&replicaSet=atlas-zud2s3-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0';
+// const mongoURI = 'mongodb address';
 
 // const connectToMongo = async () => {
 //     try {
